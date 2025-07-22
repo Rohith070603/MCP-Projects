@@ -117,18 +117,8 @@ Important Notes:
 
         
 Project-1: LinkedIn Post Creation with image:-  
+Project-2: Gmail
+Project-3: Railway Train Schedule
+Project-4: Eleven Labs
+Project-5: Learning Path Generator
 
- 
-Open pipedream and search for linkedin.
- 
-Connect to the linkedin account by clicking connect account.
-
- 
-Go to the cursor option and copy the server config. And paste in the area of  settings icon=>Tools and Integration=>Add New MCP server and save.
- 
-Then give the below prompts and linkedin post will be done.
-
- 
-The prompt in the chat box of the cursor and enter.
- 
-The post will be Ready.
